@@ -1,0 +1,24 @@
+﻿  ConsoleApplication11.cpp
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(164,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(211,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(231,26): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(243,90): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(251,90): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(259,90): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  ConsoleApplication11.vcxproj -> C:\Users\gorsk\source\repos\ConsoleApplication11\Debug\ConsoleApplication11.exe

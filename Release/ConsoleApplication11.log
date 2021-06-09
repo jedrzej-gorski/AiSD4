@@ -1,0 +1,29 @@
+﻿  ConsoleApplication11.cpp
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(164,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(211,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(232,30): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(244,93): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(252,93): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\gorsk\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(260,94): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating code
+  1 of 332 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication11.vcxproj -> C:\Users\gorsk\source\repos\ConsoleApplication11\Release\ConsoleApplication11.exe
